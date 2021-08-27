@@ -7,10 +7,9 @@ I'm passionate about all things Linux & Mac. From managing, to developing and sc
 👨‍💻 Programming Languages 👨‍💻
 - HTML (markup -- not a language)
 - Javascript|Typescript|CoffeeScript
-- PHP (❤️)
+- PHP
 - Python (❤️❤️)
-- Go (❤️❤️)
+- Go (❤️❤️❤️❤️)
 - Rust (*learning in progress*)
-- Ruby {&&on Rails}
 
 📫 You can reach me via email by sending your message to tuxgithub [[ @ ]] protonmail [[ . ]] com
